@@ -5,7 +5,7 @@
 ############################ Necessary Libraries ################################
 library(shiny)
 library(DT)
-library(leaflet)
+#library(leaflet)
 library(shinydashboard)
 library(dashboardthemes)
 library(shinycssloaders)
